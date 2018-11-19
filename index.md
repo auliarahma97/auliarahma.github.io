@@ -19,7 +19,7 @@ Universitas :Universitas Islam Negeri Sultan Syarif Kasim Riau
 
 
 ### Foto Universitas Islam Negeri Sultan Syarif Kasim Riau
-[Link](https://uin-suska.ac.id/) and ![Image](https://quipper-video-wordpress.s3.amazonaws.com/images/2017/04/p1-fakultas-syariah-uin-suska-pekanbaru-2016.jpg)
+![Image](https://quipper-video-wordpress.s3.amazonaws.com/images/2017/04/p1-fakultas-syariah-uin-suska-pekanbaru-2016.jpg)
 
 
 
