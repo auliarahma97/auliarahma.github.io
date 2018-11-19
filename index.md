@@ -15,5 +15,5 @@ Universitas :Universitas Islam Negeri Sultan Syarif Kasim, Riau
 ### Back Link
 [sif.uin-suska.ac.id](https://sif.uin-suska.ac.id/)
 
-[sif.uin-suska.ac.id](https://uin-suska.ac.id/)
+[uin-suska.ac.id](https://uin-suska.ac.id/)
 
