@@ -1,25 +1,18 @@
 ## Selamat Datang di Halaman Github Saya
 
-You can use the [editor on GitHub](https://github.com/auliarahma97/auliarahma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ini adalah halaman Github Saya. [editor on GitHub](https://github.com/auliarahma97/auliarahma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Profil Saya
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Nama : Aulia Rahma
+2. NIM : 11653200196
+3. Jurusan : Sistem Informasi
+4. Fakultas : Sains dan Teknologi
+5. Universitas Islam Negeri Sultan Syarif Kasim, Riau
 
 **Bold** and _Italic_ and `Code` text
 
