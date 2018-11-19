@@ -10,10 +10,18 @@ Nama        : Aulia Rahma
 NIM         : 11653200196
 Jurusan     : Sistem Informasi
 Fakultas    : Sains dan Teknologi
-Universitas :Universitas Islam Negeri Sultan Syarif Kasim, Riau
+Universitas :Universitas Islam Negeri Sultan Syarif Kasim Riau
 ```
 ### Back Link
 [sif.uin-suska.ac.id](https://sif.uin-suska.ac.id/)
 
 [uin-suska.ac.id](https://uin-suska.ac.id/)
+
+
+### Foto Universitas Islam Negeri Sultan Syarif Kasim Riau
+[Link](https://uin-suska.ac.id/) and ![Image](https://quipper-video-wordpress.s3.amazonaws.com/images/2017/04/p1-fakultas-syariah-uin-suska-pekanbaru-2016.jpg)
+
+
+
+
 
