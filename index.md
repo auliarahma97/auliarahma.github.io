@@ -12,9 +12,6 @@ Jurusan    : Sistem Informasi
 Fakultas   : Sains dan Teknologi
 Universitas :Universitas Islam Negeri Sultan Syarif Kasim, Riau
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Back Link
 [sif.uin-suska.ac.id](https://sif.uin-suska.ac.id/)
 
