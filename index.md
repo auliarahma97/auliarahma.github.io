@@ -6,10 +6,10 @@ Ini adalah halaman Github Saya. Terimakasih telah berkunjung :)
 
 ```markdown
 
-Nama       : Aulia Rahma
-NIM        : 11653200196
-Jurusan    : Sistem Informasi
-Fakultas   : Sains dan Teknologi
+Nama        : Aulia Rahma
+NIM         : 11653200196
+Jurusan     : Sistem Informasi
+Fakultas    : Sains dan Teknologi
 Universitas :Universitas Islam Negeri Sultan Syarif Kasim, Riau
 ```
 ### Back Link
